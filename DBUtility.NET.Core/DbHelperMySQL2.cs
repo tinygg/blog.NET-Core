@@ -11,7 +11,7 @@
 //using System.Text;
 //using System.Data.SqlClient;
 
-//namespace KXNF.DBUtility
+//namespace DBUtility
 //{
 //    /// <summary>
 //    /// 数据访问抽象基础类

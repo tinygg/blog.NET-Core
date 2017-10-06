@@ -11,7 +11,7 @@ using System.Data.SqlClient;
 using System.Collections;
 using Commons;
 
-namespace KXNF.DBUtility
+namespace DBUtility
 {
 
     /// <summary>

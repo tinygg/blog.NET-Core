@@ -2,7 +2,7 @@
 using System.Configuration;
 using Commons;
 
-namespace KXNF.DBUtility
+namespace DBUtility
 {
     
     public class PubConstant

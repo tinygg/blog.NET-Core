@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Data;
 using System.Text;
 
-namespace KXNF.DBUtility2
+namespace DBUtility2
 {
     public enum MySqlDbType
     {

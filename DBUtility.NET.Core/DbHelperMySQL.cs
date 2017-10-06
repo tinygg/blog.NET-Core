@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text.RegularExpressions;
 using MySql.Data.MySqlClient;
 
-namespace KXNF.DBUtility
+namespace DBUtility
 {
 
     public class DbHelperMySQL

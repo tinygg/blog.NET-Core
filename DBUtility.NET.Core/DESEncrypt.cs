@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Security.Cryptography;  
 using System.Text;
-namespace KXNF.DBUtility
+namespace DBUtility
 {
 	/// <summary>
 	/// DES加密/解密类。
@@ -21,7 +21,7 @@ namespace KXNF.DBUtility
         /// <returns></returns>
 		public static string Encrypt(string Text) 
 		{
-            return Encrypt(Text, "litianping");
+            return Encrypt(Text, "litianping2");
 		}
 		/// <summary> 
 		/// 加密数据 
@@ -61,7 +61,7 @@ namespace KXNF.DBUtility
         /// <returns></returns>
 		public static string Decrypt(string Text) 
 		{
-            return Decrypt(Text, "litianping");
+            return Decrypt(Text, "litianping2");
 		}
 		/// <summary> 
 		/// 解密数据 
